@@ -16,12 +16,3 @@
 
 
 
-
-
-// https://www.youtube.com/watch?v=3-bZ7gLVSzo
-// https://www.w3schools.com/jsref/jsref_push.asp
-// https://www.w3schools.com/js/js_arrays.asp
-// https://www.youtube.com/watch?v=RBB2N341tr0
-// https://www.youtube.com/watch?v=lq7tFgvdf4k
-// https://www.youtube.com/watch?v=CVClHLwv-4I
-// https://www.youtube.com/watch?v=AZ4PdALMqx0
